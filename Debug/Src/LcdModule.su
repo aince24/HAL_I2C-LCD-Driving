@@ -1,0 +1,11 @@
+LcdUserConf.h:8:13:hi2cx_define	8	static
+LcdModule.c:57:6:LCD_i2cDeviceCheck	16	static
+LcdModule.c:70:6:LCD_Set_Command	16	static
+LcdModule.c:89:6:LCD_Write_Data	16	static
+LcdModule.c:108:6:LCD_Clear	8	static
+LcdModule.c:117:6:LCD_SetCursor	0	static
+LcdModule.c:128:6:LCD_Send_String	440	dynamic,bounded
+LcdModule.c:184:6:LCD_Send	16	static
+LcdModule.c:201:6:LCD_Print	112	static
+LcdModule.c:210:6:LCD_BackLight	0	static
+LcdModule.c:225:6:LCD_Init	8	static
